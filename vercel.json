@@ -1,0 +1,3 @@
+{
+  "build": { "env": { "FORCE_BUILD_IN_REGION": "lhr1", "VERCEL_DEBUG": "1" } }
+}
